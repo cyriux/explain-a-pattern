@@ -1,6 +1,6 @@
 # Explain-a-Pattern
 
-Chose one pattern, check on the literature (web) to understand it enough to present it briefly to the group. 
+Choose one pattern, check on the literature (web) to understand it enough to present it briefly to the group.
 
 You may want to use one of the images below as well.
 
