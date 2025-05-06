@@ -13,3 +13,5 @@ You may want to use one of the images below as well.
 ![Lambda Architecture](lambda-arch-pattern.jpeg)
 
 ![Map-reduce](map-reduce-pattern.jpeg)
+
+![RAG](RAG-pattern.png)
